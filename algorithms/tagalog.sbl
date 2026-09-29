@@ -51,7 +51,7 @@ define exception as (
             (<- 'kailangan')
         'kailan' 'kailanman' (<- 'kailan')
         // roots beginning with a prefix-like syllable
-        'kainan' 'kainang' 'kainin' 'kinainan' 'pakainin' 'pakakainin'
+        'kainan' 'kainang' 'kainin' 'kinain' 'kinainan' 'pakainin' 'pakakainin'
             (<- 'kain')
         'inuman' 'inumin' 'inuming' (<- 'inom')
         'mahalin' (<- 'mahal')
